@@ -1,0 +1,38 @@
+,Lecture.Hall,Description,Seating.Capacity,Bussiest.Day,...5,...6,...7,Lecture.count
+1,A1,Zoology Auditorium,200,Monday,NA,NA,NA,29
+2,Activity Room,Activity Room - Physics,100,Wednesday & Friday,NA,NA,NA,7
+3,B1,Botany Auditorium,120,Wednesday,NA,NA,NA,12
+4,B2,Botany Lecture Theatre 1,100,Tuesday,NA,NA,NA,25
+5,B3,Botany Lecture Theatre 2,50,Tuesday,NA,NA,NA,4
+6,BLC,Blended Learning Center,60,Tuesday & Thursday,NA,NA,NA,4
+7,C1,Chemistry Lecture Theatre 1,250,Wednesday,NA,NA,NA,4
+8,C2,Chemistry Lecture Theatre 2,150,Thursday,NA,NA,NA,1
+9,C3,Chemistry Lecture Theatre 3,50,Monday,NA,NA,NA,17
+10,C4,Chemistry Lecture Theatre 4,40,Wednesday,NA,NA,NA,20
+11,F1,Forestry Auditorium,50,Monday,NA,NA,NA,22
+12,F2,Forestry Lecture Theatre 2,250,Thursday,NA,NA,NA,17
+13,F3,Forestry Lecture Theatre 3,30,Thursday,NA,NA,NA,9
+14,LCS1,New Faculty Complex (Second Floor) Lab 1,100,Monday & Tuesday & Thursday & Friday,NA,NA,NA,9
+15,LCS2,New Faculty Complex (Second Floor) Lab 2,50,Monday & Tuesday & Wednesday,NA,NA,NA,12
+16,M1,Mathematics Lecture Theatre 1,85,Tuesday & Friday,NA,NA,NA,15
+17,M2,Mathematics Lecture Theatre 2,100,Friday,NA,NA,NA,14
+18,NFC2,New Faculty Complex (First Floor),100,Friday,NA,NA,NA,17
+19,NFC3,New Faculty Complex (Second Floor),140,Tuesday,NA,NA,NA,6
+20,NFC4,New Faculty Complex (Third Floor),150,Tuesday,NA,NA,NA,15
+21,NFC5,New Faculty Complex (Mini Auditorium),40,Thursday,NA,NA,NA,20
+22,NFC6,New Faculty Complex (Fifth Floor),80,Monday & Wednesday,NA,NA,NA,27
+23,PLT,Physics Lecture Theatre,200,Thursday,NA,NA,NA,1
+24,S1,Science Auditorium,600,Wednesday,NA,NA,NA,13
+25,SCR,Smart Classroom,30,Monday,NA,NA,NA,11
+26,SLH,Special Lecture Hall-Botany,30,Monday & Tuesday & Wednesday,NA,NA,NA,3
+27,Stat Lab1,New Faculty Complex (Third Floor) Lab,40,Tuesday,NA,NA,NA,4
+28,Stat Lab2,New Faculty Complex (Third Floor) Lab 2,20,Monday & Wednesday,NA,NA,NA,13
+29,UDG Lab,NA,30,Monday,NA,NA,NA,7
+30,SP - Forestry,NA,30,Thursday,NA,NA,NA,6
+31,SRL,Special Lecture Hall - Mathematics,16,Thursday,NA,NA,NA,11
+32,EL-1,Elementary Learning,,Friday,NA,NA,NA,7
+33,P1,P1,150,Wednesday,NA,NA,NA,9
+34,P2,P2,100,Monday & Tuesday ,NA,NA,NA,6
+35,SRL,Special Lecture Hall - Mathematics,16,Thursday,NA,NA,NA,11
+36,Zoology seminar room 2,Zoology seminar room 2,100,Monday & Tuesday,NA,NA,NA,2
+37,GMBU,Genetics and Molecular Biology Unit,100,Monday & Friday,NA,NA,NA,3
